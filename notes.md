@@ -1,3 +1,14 @@
  - Looking through Skarlatou's links in the thread, I decided to choose the link of the website that provided old records of Concord, Massachussets. This just seemed like the least likely thing to look at, which is why I decided to look at it.
  - I then picked a literary text called The Concord of 1855-1856, a historical piece written about Concord in 1915.
- - 
+ - The text file was already a analyzable piece of online digital text, so I put it into voyant first, just to get a good look at what the main themes of the text were. It will tell me which words are used most frequently so I can see mainly what the piece is about.
+ - Right off the bat, I can tell it was a very political piece, as the wordmap showed me names like Thoreau, Hawthorne and Emerson. There were also many mentions of slavery.
+ - I decided to go ahead with this text after looking at it in voyant, because I took away from the information it gave me that it would be a 1915 point of view of the political situation of 1855 Concord, if I were attempting a full-fledged project, I could use this text to compare how political points of view had changed over the years in Concord, as well as how politics evolved around what people deemed important and unimportant.
+ - I next copied the text from the website, pasted into notepad and saved it as weeksix.txt
+ - I then opened Antconc and put my text in there.
+ - Antconc showed me that the author was fond of Henry David Thoreau, one of those super influencial philosophers and writers that we frequently see in history who popularize and move forward certain ideologies and opinions.
+ - Every mention of him is in a positive light, Thoreau was also an avid transcendentalist, leading me to believe that transcendentalism could be increasingly popular in early 1900s Concord. If I were to make a direct statement or point towards this, however, I would need to look at a lot more texts.
+ - Typing in slavery also got me a decent number of hits. In the text, Concord was politically torn between supporting slavery and not supporting it for financial reasons.
+ - Unfortunately, the rest of the text was just about school, and how a lot of the people mentioned earlier in the piece lectured at University, even the author began speaking about his tuition fees? Maybe this wasn't such a good choice.
+ - My next plan was to use databasic.io to link the names of the people he mentioned together, hopefully into something that would make sense. I thought that if nodes were together, it would mean the author had similar opinions and linking points about those two people. However, seeing as there was not nearly as much useable content as I thought there would be, it would be a very lackluster endeavour.
+ - Normally, I would have just read the entire thing start to finish before choosing it, but I wanted to be fancy and have programs tell me what it was about, the main points, and THEN I would read it. I created a podcast detailing my process.
+ - LINK TO PODCAST: https://anchor.fm/hordan-dison/episodes/The-Week-Six-Project-efdqca
