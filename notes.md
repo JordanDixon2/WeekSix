@@ -1,0 +1,3 @@
+ - Looking through Skarlatou's links in the thread, I decided to choose the link of the website that provided old records of Concord, Massachussets. This just seemed like the least likely thing to look at, which is why I decided to look at it.
+ - I then picked a literary text called The Concord of 1855-1856, a historical piece written about Concord in 1915.
+ - 
